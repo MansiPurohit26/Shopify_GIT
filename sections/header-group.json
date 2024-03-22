@@ -11,10 +11,18 @@
             "text": "Welcome to our store",
             "link": ""
           }
+        },
+        "announcement_9hFd9g": {
+          "type": "announcement",
+          "settings": {
+            "text": "Aroma Cafe Store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_9hFd9g"
       ],
       "settings": {
         "color_scheme": "",
